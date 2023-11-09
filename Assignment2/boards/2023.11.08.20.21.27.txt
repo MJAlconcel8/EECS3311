@@ -1,0 +1,6 @@
+MUSKETEER
+O O _ X _
+O O O _ _
+O _ X _ O
+_ O _ X O
+O O _ O O
