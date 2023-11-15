@@ -1,0 +1,1 @@
+--module-path /Users/ilirdema/uoft/teaching/csc207/utmf2021/java/javafx-sdk-17.0.0.1/lib --add-modules javafx.controls,javafx.fxml --add-exports javafx.graphics/com.sun.javafx.application=ALL-UNNAMED
